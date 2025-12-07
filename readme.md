@@ -1,7 +1,4 @@
-delower23105101519_db_user
-w0WR2z14D1aZ114K
 
-mongodb+srv://delower23105101519_db_user:w0WR2z14D1aZ114K@cluster0.7bnusjv.mongodb.net/?appName=Cluster0
 
 Ready for Client Side
 
@@ -16,3 +13,5 @@ Ready for Client Side
 5. Update bill: PUT /myBills/:id
 
 6. Delete bill: DELETE /myBills/:id
+
+7. clint side url:

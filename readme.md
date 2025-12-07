@@ -14,4 +14,5 @@ Ready for Client Side
 
 6. Delete bill: DELETE /myBills/:id
 
-7. clint side url:
+clint side url:  
+server side url: https://b12a10v3.vercel.app/
